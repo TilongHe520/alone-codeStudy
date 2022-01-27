@@ -3,6 +3,38 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[13]罗马数字转整数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[13]罗马数字转整数.java" />
+              <option name="questionId" value="13" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[1]两数之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[1]两数之和.java" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[26]删除有序数组中的重复项.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[26]删除有序数组中的重复项.java" />
+              <option name="questionId" value="26" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[9]回文数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[9]回文数.java" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[面试题 01.01]判定字符是否唯一.java">
           <value>
             <LeetcodeEditor>
@@ -24,6 +56,14 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[面试题 01.03]URL化.java" />
               <option name="questionId" value="100160" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[面试题 01.06]字符串压缩.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/40/_bdh4n9j0rqdvtt485zb1hs00000gn/T/leetcode/editor/cn/[面试题 01.06]字符串压缩.java" />
+              <option name="questionId" value="100161" />
             </LeetcodeEditor>
           </value>
         </entry>
