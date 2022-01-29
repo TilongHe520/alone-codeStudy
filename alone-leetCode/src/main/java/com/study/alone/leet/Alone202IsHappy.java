@@ -12,14 +12,15 @@ import java.util.Set;
  */
 public class Alone202IsHappy {
     public static void main(String[] args) {
-        System.out.println(isHappy(2));
+        System.out.println(isHappy(3));
     }
 
     public static boolean isHappy(int n) {
         Set<Integer> sets = new HashSet<>();
-        while (n>3 && !sets.contains(n)){
-            sets.contains(n);
+        while (n!=1 && !sets.contains(n)){
+            sets.add(n);
             n = getNext(n);
+            System.out.println(n);
         }
         return n==1;
     }
