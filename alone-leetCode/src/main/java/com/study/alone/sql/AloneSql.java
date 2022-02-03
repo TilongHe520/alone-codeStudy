@@ -61,6 +61,13 @@ public class AloneSql {
                 "AND\n" +
                 "w.Temperature > w1.Temperature;";
         /**
+         * 595.大的国家
+         */
+        String sql595 = "select name,population,area " +
+                "from world " +
+                "where area >= 3000000 or population >= 25000000";
+
+        /**
          * 596. 超过5名学生的课
          */
         String sql596 = "select class " +
