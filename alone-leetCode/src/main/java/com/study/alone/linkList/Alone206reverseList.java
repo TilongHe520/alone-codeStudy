@@ -1,4 +1,4 @@
-package com.study.alone.leet;
+package com.study.alone.linkList;
 
 /**
  * @Author: hetilong
@@ -16,14 +16,6 @@ public class Alone206reverseList {
 
         System.out.println(reverseList(listNode4));
 
-    }
-
-    public static class ListNode {
-      int val;
-      ListNode next;
-      ListNode() {}
-      ListNode(int val) { this.val = val; }
-      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 
     public static ListNode reverseList(ListNode head) {
