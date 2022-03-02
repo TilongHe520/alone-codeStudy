@@ -1,6 +1,5 @@
 package com.study.alone.tree;
 
-import com.study.alone.tree.TreeNode;
 
 /**
  * @Author: hetilong
